@@ -1,0 +1,37 @@
+Create folder YourID where you can put all pictures, notes, answers, sql definitions  and how you test that they are working (test sql, picture from output)
+
+Exectute below tasks
+
+
+1. Create ER Diagram and other requested tasks from picture Ex_1. You can use diagram.net or draw.io
+
+2. Create Table Model and other requested tasks from picture Ex_2. You can use diagram.net or draw.io
+
+
+3. Create Empty Database and import table and rows from Document excel file
+
+3.1.  Execute select * from {New_table_name}
+
+
+4. Copy/Download MidTerm2023_Trial.bak backup file and restore it
+
+4.1 Check the data into Books and Ordelines Tables
+
+4.2  Export the data from Books Table into a Excel file or Access file.
+
+4.3  Execute below commands and explain output
+
+use midterm2023_trial
+
+use DB from Step 3
+
+SELECT * FROM DOCUMENT WHERE COMMAND=0 
+
+SELECT ItemText FROM DOCUMENT WHERE itemnumber = 1 AND COMMAND=3
+
+5. Create backup from the Database from Exercise 3.
+
+Backup file put in your folder YourID
+
+
+Create zip file from the folder YourID and send it to igor.janchev@uacs.edu.mk venera.gudachi@uacs.edu.mk 
