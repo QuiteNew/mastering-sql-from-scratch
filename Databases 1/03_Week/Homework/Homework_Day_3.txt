@@ -1,0 +1,5 @@
+HOmework:
+
+Create database Your_ID
+
+And create tables in your database from the Table model from Lecture_2 (last slide from presentation). 
