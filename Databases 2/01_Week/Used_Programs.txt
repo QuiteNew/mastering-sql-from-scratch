@@ -1,0 +1,10 @@
+Used programs during the semestar:
+
+
+DB Engine: MS SQL Server 2019 Express Edition  https://www.microsoft.com/en-us/download/details.aspx?id=101064 
+
+Install New SQL Server-stand-alone installation
+
+SQL Management Studio(SSMS) 18.12  https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16 
+
+Learning: https://www.w3schools.com/sql
